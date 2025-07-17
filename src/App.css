@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* 
+@tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* Ensure full height */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* If using canvas for particles */
+ canvas {
+  display: block;
+}
