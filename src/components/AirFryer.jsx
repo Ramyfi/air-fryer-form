@@ -390,9 +390,6 @@ const AirFryer = () => {
       <p>
         By submitting this form, you agree to receive updates about our revolutionary air fryer.
       </p>
-      <p className="mt-2 font-[raleway]">
-        Powered by Sp<span className="font-semibold text-white/50">i</span>dr Design
-      </p>
     </div>
   </div>
 
